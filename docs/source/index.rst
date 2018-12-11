@@ -6,7 +6,7 @@
 Welcome to gryphon-docs-test's documentation!
 =============================================
 
-We hope you enjoy yourself.
+We hope you enjoy yourself and help yourself to some cookies.
 
 
 .. toctree::
