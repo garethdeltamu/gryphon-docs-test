@@ -1,0 +1,27 @@
+{% extends "!layout.html" %}
+
+{% block footer %} {{ super() }}
+
+  <style>
+    /* Sidebar header (and topbar for mobile) */
+    .wy-side-nav-search, .wy-nav-top {
+      background: #29373D;
+      border-bottom: 1px solid rgba(70, 196, 221, 1);
+    }
+
+    .wy-side-nav-search img {
+      background-color: unset;
+      border-radius: unset;
+      height: unset;
+      width: unset;
+    }
+
+    nav.wy-nav-side {
+        background-color: #29373D;
+    }
+
+    .wy-nav-content-wrap, .wy-nav-content {
+        background-color: #F6F7FA;
+    }
+  </style>
+{% endblock %}
