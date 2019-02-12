@@ -8,7 +8,7 @@ Welcome to gryphon-docs-test's documentation!
 
 We hope you enjoy yourself and help yourself to some cookies.
 
-Don't do anything I wouldn't do.
+Don't do anything I wouldn't do, or do, who cares. Not me.
 
 .. toctree::
    :maxdepth: 2
